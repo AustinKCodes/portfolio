@@ -53,11 +53,12 @@ body {
 @layer base {
   :root {
     --yellow: #fbe932;
-    --green: #7ed21e;
-    --purple: #b91fd1;
-    --blue: #5c9eff;
-    --red: #ff5c5c;
-    --pink: #f137a6;
+    --green: #004225;
+    --purple: #481C7B;
+    --blue: #113D67;
+    --red: #ad011d;
+    --pink: #E0115F;
+    --brown: #784830b5;
 
     --background: 0 0% 100%;
     --foreground: 240 10% 3.9%;
@@ -85,7 +86,7 @@ body {
     --chart-4: 43 74% 66%;
     --chart-5: 27 87% 67%;
     --radius: 0.5rem;
-    --primary_C: var(--red);
+    --primary_C: var(--purple);
     --secondary_C: var(--blue);
     --bg-hex: #f4f1f1;
     --fg-hex: #909090;
@@ -116,9 +117,9 @@ body {
     --chart-3: 30 80% 55%;
     --chart-4: 280 65% 60%;
     --chart-5: 340 75% 55%;
-    --primary_C: var(--yellow);
-    --secondary_C: var(--pink);
-    --bg-hex: #09090b;
+    --primary_C: var(--pink);
+    --secondary_C: var(--red);
+    --bg-hex: #09090b73;
     --fg-hex: #808080;
     --text-hex: #ffffff;
   }

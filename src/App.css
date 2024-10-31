@@ -116,10 +116,10 @@
 
 @keyframes fader {
   0% {
-    opacity: 8%;
+    opacity: 18%;
   }
   100% {
-    opacity: 3%;
+    opacity: 8%;
   }
 }
 
