@@ -1,18 +1,18 @@
 {
-  "fullName": "Seth Way",
+  "fullName": "Austin Kenny",
   "role": "Software Developer",
   "image": "headShot.jpg",
   "bio": [
-    "Creative and intellectually curious Web Developer with hands-on experience designing, building, and testing complex web applications. I have a passion for creating software solutions that are fluid, thoughtful, and user-centric.",
-    "After honorably completing my military service, I graduated from the Microsoft Software & Systems Academy and attended Turing School, one of the nation’s leading software engineering bootcamps. There, I gained a strong foundation in several programming languages, from the basics to advanced concepts.",
-    "I’ve applied these skills to develop interesting and useful tools, consistently meeting project deadlines while collaborating with teams of talented individuals. I’m excited and motivated to contribute to impactful, forward-facing codebases."
+    "Dedicated and Highly Motivated Web Developer with hands-on experience designing, building, and testing backend services for multiple apps. I strive to create scalable and well thought out products to help others.",
+    "After my previous position as a Software Administrator and working with Salesforce, I decided to expand my career path! I started at Turing school of Software and Design and learned many backend topics and technologies while meeting deadlines and collaborating with teams to build a successful product.",
+    "I've developed tools to help those in need and support groups that are dedicated to a craft. I'm excited to continue to do so further in my career and with a team who strives to help those in need"
   ],
-  "email": "way.sethaniel@gmail.com",
-  "phone": "570-419-2673",
-  "github": "https://github.com/seth-way",
-  "linkedIn": "https://www.linkedin.com/in/sethway",
+  "email": "austinkennywork@gmail.com",
+  "phone": "803-427-2041",
+  "github": "https://github.com/AustinKCodes",
+  "linkedIn": "https://www.linkedin.com/in/austin-kenny-iii/",
   "address": {
-    "city": "Keuka Lake",
-    "state": "NY"
+    "city": "Columbia",
+    "state": "SC"
   }
 }
