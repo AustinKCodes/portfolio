@@ -10,7 +10,7 @@
     }
   },
   {
-    "title": "Chess with Frein-emies",
+    "title": "Chess with Frien-emies",
     "short": "chess",
     "description": "‘Chess With Frien-emies' is a full stack Rails application that will allow users to sign into a pre-made account and connect with their friends to play games of chess. The application also provides users with a functional friends list, and a section for statistics on their previous games of chess.",
     "contributors": ["Zelalem Fitru", "Lance Nelson", "Jan Leigh", "Cory Bretsch", "Carissa Hluchan", "Evan Davis", "Seth Way", "Robert Phillips", "Gwyneth Patrick", "Seth Way", "Tyler Noble"],
