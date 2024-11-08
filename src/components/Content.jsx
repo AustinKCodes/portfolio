@@ -144,7 +144,7 @@ const Content = ({ type, project }) => {
         >
           <DialogDescription className='my-2'>{description}</DialogDescription>
           <div className='w-full flex justify-center'>
-            <Img imgName={short} folder='projects' type='gif' />
+            <Img imgName={short} folder='projects' type='png' />
           </div>
 
           {/* {tech && displayTech(tech)} */}
@@ -167,7 +167,7 @@ const Content = ({ type, project }) => {
         >
           <DrawerDescription className='my-4'>{description}</DrawerDescription>
           <div className='w-full flex justify-center'>
-            <Img imgName={short} folder='projects' type='gif' />
+            <Img imgName={short} folder='projects' type='png' />
           </div>
 
           {/* {tech && displayTech(tech)} */}
