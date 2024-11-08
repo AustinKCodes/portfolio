@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react';
 import headShot from '@/assets/images/headShot.jpg';
 import background from '@/assets/resume-info/background.json';
-import resume from '@/assets/testresume.pdf';
+import resume from '@/assets/austin_kenny_resume.pdf';
 const { fullName, bio, email, phone, address } = background;
 const { city, state } = address;
 import { Card } from '@/components/ui/card';
