@@ -16,7 +16,7 @@
     "contributors": ["Zelalem Fitru", "Lance Nelson", "Jan Leigh", "Cory Bretsch", "Carissa Hluchan", "Evan Davis", "Seth Way", "Robert Phillips", "Gwyneth Patrick", "Seth Way", "Tyler Noble"],
     "tech": ["react", "PostgreSQL", "flask", "Ruby on Rails","Heroku","vite","vercel"],
     "links": {
-      "repo": "https://github.com/frien-emies"
+      "repo": "https://github.com/frien-emies/users_BE"
     }
   }
 ]
